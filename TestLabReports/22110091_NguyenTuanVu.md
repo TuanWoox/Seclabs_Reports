@@ -134,7 +134,7 @@ After
 
 ![task1.after](./Pictures/Task1/after.png)
 
-*Conclusion*: The buffer overflow vulnerability in the C program was successfully exploited using shellcode injection, return-to-lib-c.
+**Conclusion**: The buffer overflow vulnerability in the C program was successfully exploited using shellcode injection, return-to-lib-c.
 
 
 # Task 2: Attack on database of DVWA
